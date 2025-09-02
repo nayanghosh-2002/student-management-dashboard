@@ -38,7 +38,7 @@ A modern, responsive **React-based dashboard** designed to streamline student ma
 
 Clone the repository:  
 ```
-git clone https://github.com/nayanghosh2002/student-management-dashboard
+git clone https://github.com/nayanghosh2002/student-management-dashboard.git
 cd student-management-dashboard
 ```
 
